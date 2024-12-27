@@ -1,64 +1,26 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Password-Generate-App
-=======
-# WeatherSense: Current Weather Conditions and City-based Forecast
-=======
-# WeatherSense: Real-Time Weather Conditions and Forecasts
->>>>>>> Weather App
+# Weather App  
 
-WeatherSense is a dynamic web application designed to provide instant weather updates for your current location or any city you wish to explore. Stay updated with real-time information including temperature, wind speed, humidity, and cloud cover. Whether you're planning your day or preparing for a trip, WeatherSense is your go-to solution for reliable weather data. With an intuitive interface and accurate information sourced from reputable weather APIs, you can trust WeatherSense to keep you informed.
+A modern and interactive Weather App built using **HTML**, **CSS**, and **JavaScript**. The app allows users to view weather information for their current location or any searched location.  
 
-## Key Features
+## Features  
 
-1. **Location-Based Weather**: The app automatically requests your location upon loading to deliver specific weather information tailored to your area.
-2. **City Search Functionality**: Easily find weather data by entering the name of any city.
-3. **Real-Time Data**: Utilizing a weather API, the app fetches the latest weather information to ensure you're always informed.
-4. **User-Friendly Design**: Weather data is presented in an engaging and easy-to-navigate format.
+- **Current Location Weather**: Automatically fetches and displays the weather for your current location (with location access permission).  
+- **Search by Location**: Allows users to search for weather information of any city or location.  
+- **Recent Searches**: Displays recent search locations as tags for quick access.  
+- **Dynamic UI**: A visually appealing and responsive user interface.  
 
-## Technologies Utilized
+## Demo  
 
-1. **HTML5, CSS3, and JavaScript**: These are the foundational technologies for the app's front-end development.
-2. **Geolocation API**: This feature retrieves your latitude and longitude to provide accurate weather information.
-3. **Weather API**: Accesses weather data based on user location or city input.
+### Grant Location Access  
+![Grant Location Access Screenshot]![Screenshot from 2024-12-27 13-05-36](https://github.com/user-attachments/assets/312c2ac5-d445-4b34-ac63-c06f5eb0b1d3)
 
-## Getting Started
 
-1. Visit the WeatherSense website in your web browser at [WeatherSense Forecast]
-2. When prompted, allow the app to access your location.
-3. The current weather details for your area will be displayed.
-4. To find weather information for a specific city, type the city name in the search bar and press Enter or click the search button.
-5. The app will present the weather information for the entered city.
+### Search and Weather Display  
+![Search Weather Screenshot]![Screenshot from 2024-12-27 13-05-54](https://github.com/user-attachments/assets/9f02cd07-a5f7-48cc-8208-e24f6c2a30f8)
 
-## No Installation Needed
+## How to Use  
 
-WeatherSense is entirely web-based, so there’s no installation required. Simply access it through your web browser using the link above.
-
-## Contributions
-
-Contributions are encouraged! If you encounter any issues or have suggestions for enhancements, feel free to submit a pull request or open an issue in the GitHub repository.
-
-## License
-
-WeatherSense is open for public use. You are welcome to use, modify, and distribute the code under the terms of the associated license.
-
-## Acknowledgments
-
-1. Special thanks to the educators and resources that provided the foundational knowledge for this project.
-2. The "openweathermap" API was instrumental in delivering accurate weather data.
-
-## Contact Information
-
-For any questions, feedback, or inquiries, please reach out via email or open an issue in the GitHub repository.
-
-## Final Thoughts
-
-I hope you find WeatherSense to be a valuable tool for checking the weather in your area or any city of interest. Enjoy using the app and stay informed about the weather!
-
-<<<<<<< HEAD
->>>>>>> Create README.md
-=======
---- 
-
-Feel free to adjust any part of this to better fit your style or needs!
->>>>>>> Weather App
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/James9b/Weather-App.git
+   cd weather-app
