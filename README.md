@@ -8,6 +8,9 @@ A modern and interactive Weather App built using **HTML**, **CSS**, and **JavaSc
 - **Search by Location**: Allows users to search for weather information of any city or location.  
 - **Recent Searches**: Displays recent search locations as tags for quick access.  
 - **Dynamic UI**: A visually appealing and responsive user interface.  
+### Live Demo  
+
+Explore the app here: **[Weather App Live Demo](https://weather-app-blush-gamma-15.vercel.app/)**  
 
 ## Demo  
 
