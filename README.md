@@ -26,4 +26,4 @@ Explore the app here: **[Weather App Live Demo](https://weather-app-blush-gamma-
 1. Clone the repository:  
    ```bash
    git clone https://github.com/James9b/Weather-App.git
-   cd weather-app
+   cd Weather-App
