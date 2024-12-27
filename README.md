@@ -12,11 +12,11 @@ A modern and interactive Weather App built using **HTML**, **CSS**, and **JavaSc
 ## Demo  
 
 ### Grant Location Access  
-![Grant Location Access Screenshot]![Screenshot from 2024-12-27 13-05-36](https://github.com/user-attachments/assets/312c2ac5-d445-4b34-ac63-c06f5eb0b1d3)
+![Screenshot from 2024-12-27 13-05-36](https://github.com/user-attachments/assets/312c2ac5-d445-4b34-ac63-c06f5eb0b1d3)
 
 
 ### Search and Weather Display  
-![Search Weather Screenshot]![Screenshot from 2024-12-27 13-05-54](https://github.com/user-attachments/assets/9f02cd07-a5f7-48cc-8208-e24f6c2a30f8)
+![Screenshot from 2024-12-27 13-05-54](https://github.com/user-attachments/assets/9f02cd07-a5f7-48cc-8208-e24f6c2a30f8)
 
 ## How to Use  
 
